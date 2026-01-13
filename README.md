@@ -1,16 +1,16 @@
-# **Knight Bot Session Generator**
+# **SESSION සෑදිම**
 
-[![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://knight-bot-paircode.onrender.com)
+[![Pair Code සාදාගන්න](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://knight-bot-paircode.onrender.com)
 
 ---
 
-### Quick Start
+### ඉක්මනින් පටන් ගන්න
 
-- **1) Create a Mega.nz account**  
+- **1) Mega.nz account එකක් සාදන්න**  
   [![MEGA - Create Account](https://img.shields.io/badge/MEGA-Create%20Account-red?logo=mega&logoColor=white)](https://mega.nz)
 
-- **2) Paste your credentials in `mega.js`**  
-  Open `mega.js` and update `email` and `password`:
+- **2) credentials එක `mega.js` ෆයිල් එකට දමන්න**  
+  ඕපන් කරන්න `mega.js` emai එකයි පාස්වර්ඩ් එකයි වෙනස් කරන්න `email`  `password`:
 
 ```js
 // mega.js
